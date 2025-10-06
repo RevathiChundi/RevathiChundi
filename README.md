@@ -65,7 +65,7 @@ Problem Solving | Critical Thinking | Collaboration | Communication | Leadership
 ## 📫 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/revathi-chundi)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/revathi-chundi)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/RevathiChundi)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:revathi512954@gmail.com)  
 
 Let’s collaborate on **cyber defense, automation, and secure system design** projects to make the digital world safer! 🔐✨  
