@@ -36,7 +36,7 @@ Problem Solving | Critical Thinking | Collaboration | Communication | Leadership
 
 ## 🚀 Featured Projects  
 
-### 🔍 [Network Threat Detection Dashboard](#)
+### 🔍 [Fox chase pentesting](!https://github.com/RevathiChundi/Fox-chase-pentesting)
 - Built a **SIEM-based correlation dashboard** using **Wazuh and Splunk** for real-time security event monitoring.  
 - Automated IOC collection and alerting, reducing detection time by **40%**.  
 
