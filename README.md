@@ -41,7 +41,7 @@ Problem Solving | Critical Thinking | Collaboration | Communication | Leadership
 - Performed risk analysis aligned with OWASP Top 10 and NIST frameworks, recommending mitigations to reduce attack surface by ~40%.
 - Documented findings in a structured vulnerability report simulating enterprise security assessment workflows.
 
-🛡️ [Incident Response Plan for Critical Infrastructure](https://github.com/RevathiChundi/Incident-Response-Plan/)
+### 🛡️ [Incident Response Plan for Critical Infrastructure](https://github.com/RevathiChundi/Incident-Response-Plan/)
 - Developed a comprehensive Incident Response Plan (IRP) aligned with NIST standards for critical infrastructure, defining detection, containment, and recovery workflows.  
 - Designed severity and urgency scoring models to prioritize incidents, improving simulated response efficiency by 30–40%.  
 - Created structured playbooks for phishing, ransomware, and compromised accounts, strengthening vulnerability management and compliance readiness. 
