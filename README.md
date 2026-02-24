@@ -36,7 +36,7 @@ Problem Solving | Critical Thinking | Collaboration | Communication | Leadership
 
 ## 🚀 Featured Projects  
 
-### 🔐 [Fox Chase Penetration Testing](https://github.com/your-username/fox-chase-pentest)
+### 🔐 [Fox Chase Penetration Testing](https://github.com/RevathiChundi/Fox-chase-pentesting)
 - Conducted an authorized penetration test on FoxChase.org, identifying exposed services and security misconfigurations using Nmap, curl, and Sublist3r.
 - Performed risk analysis aligned with OWASP Top 10 and NIST frameworks, recommending mitigations to reduce attack surface by ~40%.
 - Documented findings in a structured vulnerability report simulating enterprise security assessment workflows.
