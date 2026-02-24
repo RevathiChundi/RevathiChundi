@@ -36,9 +36,10 @@ Problem Solving | Critical Thinking | Collaboration | Communication | Leadership
 
 ## 🚀 Featured Projects  
 
-### 🔍 [Fox chase pentesting](#!https://github.com/RevathiChundi/Fox-chase-pentesting)
-- Built a **SIEM-based correlation dashboard** using **Wazuh and Splunk** for real-time security event monitoring.  
-- Automated IOC collection and alerting, reducing detection time by **40%**.  
+### 🔐 Fox Chase Penetration Testing(https://github.com/your-username/fox-chase-pentest)
+- Conducted an authorized penetration test on FoxChase.org, identifying exposed services and security misconfigurations using Nmap, curl, and Sublist3r.
+- Performed risk analysis aligned with OWASP Top 10 and NIST frameworks, recommending mitigations to reduce attack surface by ~40%.
+- Documented findings in a structured vulnerability report simulating enterprise security assessment workflows.
 
 ### 🧬 [Masked Face Recognition using CNN](#)
 - Designed a **deep learning model** for masked face recognition with **TensorFlow and OpenCV**.  
