@@ -46,14 +46,6 @@ Problem Solving | Critical Thinking | Collaboration | Communication | Leadership
 - Designed severity and urgency scoring models to prioritize incidents, improving simulated response efficiency by 30–40%.  
 - Created structured playbooks for phishing, ransomware, and compromised accounts, strengthening vulnerability management and compliance readiness. 
 
-### 💉 [Health Data Analysis using Machine Learning](#)
-- Applied **supervised ML algorithms** on health datasets to predict disease outcomes.  
-- Implemented model optimization techniques for **enhanced classification accuracy**.  
-
-### 🔐 [Penetration Testing Automation Toolkit](#)
-- Developed Python scripts integrating **Nmap**, **OWASP ZAP**, and **Burp Suite APIs** for vulnerability scanning.  
-- Generated structured reports aligned with **NIST and OWASP** compliance frameworks.  
-
 ---
 
 ## 📜 Certifications  
