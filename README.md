@@ -47,9 +47,9 @@ Problem Solving | Critical Thinking | Collaboration | Communication | Leadership
 - Created structured playbooks for phishing, ransomware, and compromised accounts, strengthening vulnerability management and compliance readiness. 
 
 ### 🔐[Web Application Security Review (SAST & DAST)](https://github.com/RevathiChundi/Web-Application-Code-Reviews)
-- Performed security analysis on web applications using SonarQube, OWASP ZAP, and Burp Suite to identify vulnerabilities like SQL Injection and XSS  
-- Conducted SAST and DAST testing, improving detection accuracy and reducing security risks by ~40%  
-- Applied OWASP Top 10 guidelines to recommend fixes and strengthen overall application security posture  
+- Performed security analysis on web applications using SonarQube, OWASP ZAP, and Burp Suite to identify vulnerabilities like SQL Injection and Cross Site Scripting(XSS).  
+- Conducted SAST and DAST testing, improving detection accuracy and reducing security risks by ~40%.  
+- Applied OWASP Top 10 guidelines to recommend fixes and strengthen overall application security posture.  
 
 ---
 
