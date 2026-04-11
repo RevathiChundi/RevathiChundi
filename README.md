@@ -51,7 +51,7 @@ Problem Solving | Critical Thinking | Collaboration | Communication | Leadership
 - Conducted SAST and DAST testing, improving detection accuracy and reducing security risks by ~40%.  
 - Applied OWASP Top 10 guidelines to recommend fixes and strengthen overall application security posture.
 
-### 🔐 [Indicators of Compromise (IOC) Detection & Incident Response](https://github.com/RevathiChundi/Indicators-Of-Compromise/blob/main/README.md#-problem-statement)
+### 🔐 [Indicators of Compromise (IOC) Detection](https://github.com/RevathiChundi/Indicators-Of-Compromise/blob/main/README.md#-problem-statement)
 
 - Developed an end-to-end cybersecurity project focused on detecting and analyzing IOCs using logs, hash analysis, and threat intelligence platforms.  
 - Simulated real-world incident response workflows including triage, forensic investigation, mitigation, and eradication of threats.  
