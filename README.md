@@ -41,6 +41,12 @@ Problem Solving | Critical Thinking | Collaboration | Communication | Leadership
 - Performed risk analysis aligned with OWASP Top 10 and NIST frameworks, recommending mitigations to reduce attack surface by ~40%.
 - Documented findings in a structured vulnerability report simulating enterprise security assessment workflows.
 
+### 🛡️ [SOC Threat Monitoring and Incident Response](https://github.com/RevathiChundi/Security-Operation-Center-Implementation)
+
+- Designed and implemented a team-based Security Operations Center (SOC) environment using Wazuh, Splunk, TheHive, and Cortex for real-time threat detection and incident management.  
+- Analyzed 1000+ security logs daily, investigated incidents, and integrated threat intelligence (MISP, MITRE ATT&CK) to improve detection accuracy by ~30%.  
+- Conducted vulnerability assessments using Nessus, Nmap, and OpenVAS, identifying 50+ critical vulnerabilities and strengthening overall security posture.  
+
 ### 🛡️ [Incident Response Plan for Critical Infrastructure](https://github.com/RevathiChundi/Incident-Response-Plan/)
 - Developed a comprehensive Incident Response Plan (IRP) aligned with NIST standards for critical infrastructure, defining detection, containment, and recovery workflows.  
 - Designed severity and urgency scoring models to prioritize incidents, improving simulated response efficiency by 30–40%.  
